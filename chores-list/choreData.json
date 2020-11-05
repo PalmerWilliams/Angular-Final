@@ -1,0 +1,24 @@
+{
+  "chores": [
+    {
+      "id": 2,
+      "name": "Shopping",
+      "location": "Store"
+    },
+    {
+      "id": 3,
+      "name": "Fold Laundry",
+      "location": "Home"
+    },
+    {
+      "name": "Mow the Lawn",
+      "location": "Front Yard",
+      "id": 4
+    },
+    {
+      "name": "Dishes",
+      "location": "Kitchen",
+      "id": 5
+    }
+  ]
+}
